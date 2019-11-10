@@ -1,0 +1,11 @@
+F:\Rajeesh\VisionApiDemo\VisionApiDemo\bin\Debug\netcoreapp2.0\VisionApiDemo.deps.json
+F:\Rajeesh\VisionApiDemo\VisionApiDemo\bin\Debug\netcoreapp2.0\VisionApiDemo.runtimeconfig.json
+F:\Rajeesh\VisionApiDemo\VisionApiDemo\bin\Debug\netcoreapp2.0\VisionApiDemo.runtimeconfig.dev.json
+F:\Rajeesh\VisionApiDemo\VisionApiDemo\bin\Debug\netcoreapp2.0\VisionApiDemo.dll
+F:\Rajeesh\VisionApiDemo\VisionApiDemo\bin\Debug\netcoreapp2.0\VisionApiDemo.pdb
+F:\Rajeesh\VisionApiDemo\VisionApiDemo\obj\Debug\netcoreapp2.0\VisionApiDemo.csproj.CoreCompileInputs.cache
+F:\Rajeesh\VisionApiDemo\VisionApiDemo\obj\Debug\netcoreapp2.0\VisionApiDemo.AssemblyInfoInputs.cache
+F:\Rajeesh\VisionApiDemo\VisionApiDemo\obj\Debug\netcoreapp2.0\VisionApiDemo.AssemblyInfo.cs
+F:\Rajeesh\VisionApiDemo\VisionApiDemo\obj\Debug\netcoreapp2.0\VisionApiDemo.dll
+F:\Rajeesh\VisionApiDemo\VisionApiDemo\obj\Debug\netcoreapp2.0\VisionApiDemo.pdb
+F:\Rajeesh\VisionApiDemo\VisionApiDemo\obj\Debug\netcoreapp2.0\VisionApiDemo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\ComputerVision.AppServices\obj\Debug\netcoreapp2.1\ComputerVision.AppServices.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\ComputerVision.AppServices\obj\Debug\netcoreapp2.1\ComputerVision.AppServices.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\ComputerVision.AppServices\obj\Debug\netcoreapp2.1\ComputerVision.AppServices.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\ComputerVision.AppServices\bin\Debug\netcoreapp2.1\ComputerVision.AppServices.deps.json
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\ComputerVision.AppServices\bin\Debug\netcoreapp2.1\ComputerVision.AppServices.dll
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\ComputerVision.AppServices\bin\Debug\netcoreapp2.1\ComputerVision.AppServices.pdb
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\ComputerVision.AppServices\obj\Debug\netcoreapp2.1\ComputerVision.AppServices.dll
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\ComputerVision.AppServices\obj\Debug\netcoreapp2.1\ComputerVision.AppServices.pdb
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\ComputerVision.AppServices\obj\Debug\netcoreapp2.1\ComputerVision.AppServices.csprojResolveAssemblyReference.cache

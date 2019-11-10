@@ -1,0 +1,14 @@
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\obj\Debug\netcoreapp2.1\VisionApiDemo.csprojResolveAssemblyReference.cache
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\obj\Debug\netcoreapp2.1\VisionApiDemo.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\obj\Debug\netcoreapp2.1\VisionApiDemo.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\obj\Debug\netcoreapp2.1\VisionApiDemo.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\bin\Debug\netcoreapp2.1\wwwroot\images\Rajeesh.jpg
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\bin\Debug\netcoreapp2.1\VisionApiDemo.deps.json
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\bin\Debug\netcoreapp2.1\VisionApiDemo.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\bin\Debug\netcoreapp2.1\VisionApiDemo.runtimeconfig.dev.json
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\bin\Debug\netcoreapp2.1\VisionApiDemo.dll
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\bin\Debug\netcoreapp2.1\VisionApiDemo.pdb
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\bin\Debug\netcoreapp2.1\ComputerVision.AppServices.dll
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\bin\Debug\netcoreapp2.1\ComputerVision.AppServices.pdb
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\obj\Debug\netcoreapp2.1\VisionApiDemo.dll
+C:\Users\dmitr\OneDrive\Документы\Cognitive Services  Analyze an Image Using Computer Vision API\C#\VisionApiDemo\obj\Debug\netcoreapp2.1\VisionApiDemo.pdb
